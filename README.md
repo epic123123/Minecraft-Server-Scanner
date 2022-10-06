@@ -6,4 +6,4 @@ I am not able to continue developing this project, because my Internet Service P
 has given me a warning due to there being a risk of DoS while doing this.
 
 # Minecraft-Server-Scanner
-A internet-wide Minecraft server scanner.
+A internet-wide Minecraft server scanner, written entirely in Rust.
