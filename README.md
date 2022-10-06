@@ -5,5 +5,7 @@ and/or your network.
 I am not able to continue developing this project, because my Internet Service Provider
 has given me a warning due to there being a risk of DoS while doing this.
 
+MIT License.
+
 # Minecraft-Server-Scanner
 A internet-wide Minecraft server scanner, written entirely in Rust.
